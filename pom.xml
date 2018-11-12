@@ -183,4 +183,12 @@
         </profile>
     </profiles>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.github.bordertech.config</groupId>
+            <artifactId>config</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
